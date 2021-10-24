@@ -26,5 +26,5 @@ The modifications are permanently saved in the sqlite database.
 * http://127.0.0.1:5000/admin-focus
 * http://127.0.0.1:5000/admin-posters
 
-The page will be redirected and the modifications will be displayed immediately after hitting the 'update' button. 
+The page will be redirected and the modifications will be displayed immediately after hitting the `update` button. 
 
