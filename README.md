@@ -28,3 +28,4 @@ The modifications are permanently saved in the sqlite database.
 
 The page will be redirected and the modifications will be displayed immediately after hitting the `update` button. 
 
+Template credits -> https://www.free-css.com/free-css-templates/page237/varsity
